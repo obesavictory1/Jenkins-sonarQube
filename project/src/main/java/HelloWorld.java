@@ -1,9 +1,9 @@
 /**
  * Project Name    : sonarqube-example
- * Developer       : Osanda Deshan
+ * Developer       : HighSolution Tech
  * Version         : 1.0.0
- * Date            : 8/8/2019
- * Time            : 4:28 PM
+ * Date            : 10/12/2022
+ * Time            : 6:00 PM
  * Description     :
  **/
 
