@@ -1,8 +1,8 @@
 /**
  * Project Name    : sonarqube-example
- * Developer       : HighSolution Tech
+ * Developer       : HtechCloud
  * Version         : 1.0.0
- * Date            : 10/12/2022
+ * Date            : 2/6/2023
  * Time            : 6:00 PM
  * Description     :
  **/
